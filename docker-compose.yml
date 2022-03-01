@@ -1,0 +1,9 @@
+version: '3'
+services:
+
+  datacloud-toolbox:
+    # for new UI just uncomment the following line
+    image: registry.ubitech.eu/cs3/rnd/h2020-datacloud/datacloud-toolbox:1.0.0
+    ports:
+     - 9085:80
+    restart: always
