@@ -6,15 +6,18 @@
   background-repeat: no-repeat;
   margin-top: 0;
 }
+
 /*
-      .list {
+.list {
   display: flex;
   flex-grow: 0;
   flex-shrink: 1;
   flex-direction: row;
   justify-content: flex-start;
   flex-wrap: wrap;
-}*/
+}
+*/
+
 .panel-info {
     display: block;
     width: 100%;
@@ -22,13 +25,14 @@
     text-align: left;
 
 }
+
 .panel-info article {
   display: inline-block;
   position: relative;
   vertical-align:top;
   margin: 1rem;
-  min-width: 34rem;
-  max-width: 34rem;
+  min-width: 38rem;
+  max-width: 38rem;
   min-height: 15rem;
   max-height: 15rem;
   border: 2px solid blue;
@@ -63,6 +67,7 @@
 h3 {margin: 0 auto;}
 
 .platform, .annotation, .search, .terminology, .transformation { padding: 2rem; vertical-align:top;}
+
 .panel-body-1 {padding: 2rem;}
 
 .rounded {
@@ -92,6 +97,7 @@ h3 {margin: 0 auto;}
 h4 {
 	margin: 0 auto;
 }
+
 .title
 {
 	vertical-align:top;
@@ -107,6 +113,7 @@ h4 {
   max-width: 3rem;
   float:center;
 }
+
 .description
 {
 	width: 100%;
