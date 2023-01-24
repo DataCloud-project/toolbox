@@ -71,7 +71,7 @@ h3 {margin: 0 auto;}
 .panel-body-1 {padding: 2rem;}
 
 .rounded {
-  top: 0;left: 0;right: 0; border: 5px solid #0d5296;background-color: #0d5296; vertical-align: middle;
+  top: 0;left: 0;right: 0; border: 5px solid #0d5296; background-color: black; vertical-align: middle;
 }
 
 .logo {
